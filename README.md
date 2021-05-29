@@ -1,8 +1,8 @@
 # File-handling-tool
 
-This program helps in searching and organizing large datasets with much ease rather than using normal OS operations.
+This program helps in searching and organizing large datasets with much ease rather than using conventional OS search operations.
 
-It is specifically made to handle lots of images or videos present in a directory.
+This tool is specifically made to handle lots of images or videos present in a directory.
 
 ## Description
 The program starts with displaying GUI input windows created using Tkinter. It asks for user requirements like, file name, date created or time created. 
